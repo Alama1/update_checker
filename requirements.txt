@@ -1,0 +1,5 @@
+git+https://github.com/Alama1/update_checker/tree/second@rewrite
+requests
+BeautifulSoup4
+time
+discord.py
